@@ -1,0 +1,6 @@
+{
+  "name": "Image Tools Hub",
+  "description": "An all-in-one professional image processing suite with real-time compression, resizing, formats conversion, clipping, cropping, watermark insertion, and AI-assisted background outline cutout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
